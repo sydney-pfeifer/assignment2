@@ -1,3 +1,13 @@
 .cis260specialgreen {color:#33edd8}
 
 #cis-special-parent {color: bisque}
+
+#content p {color: blue}
+
+h1, 
+h2 {
+    font-family: cursive;
+    
+    color: lightcoral;
+}
+
