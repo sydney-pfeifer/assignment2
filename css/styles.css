@@ -1,13 +1,27 @@
-.cis260specialgreen {color:#33edd8}
+body{background-color: black}
 
-#cis-special-parent {color: bisque}
+.class{color:#33edd8}
 
-#content p {color: blue}
+#quote {color: aliceblue; 
+        
+    background-color: darkgray; 
+    
+    font-family: cursive;
+    
+    font-size: 1.5em
+                
+
+}
+
 
 h1, 
 h2 {
-    font-family: cursive;
+    font-family: sans-serif;
     
-    color: lightcoral;
+    color: whitesmoke;
 }
 
+a {color: whitesmoke;
+    font-family: sans-serif;
+    
+}
